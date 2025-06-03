@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -23,9 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
