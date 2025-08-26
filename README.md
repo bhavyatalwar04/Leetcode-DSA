@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -118,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
