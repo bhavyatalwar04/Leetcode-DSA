@@ -16,10 +16,8 @@ class Solution {
                 right--;
                 rightMax=Math.max(rightMax,height[right]);
                 water+=rightMax-height[right];
-
             }
         }
         return water;
-
     }
 }
