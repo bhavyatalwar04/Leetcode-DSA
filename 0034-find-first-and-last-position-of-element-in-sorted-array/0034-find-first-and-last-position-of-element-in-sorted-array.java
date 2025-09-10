@@ -1,5 +1,6 @@
 class Solution {
 
+    // Searches left
     public static int first(int[] nums,int target){
         int low=0,high=nums.length-1,res=-1;
 
@@ -18,6 +19,7 @@ class Solution {
         return res;
     }
 
+     // Searches right
     public static int last(int[] nums,int target){
         int low=0,high=nums.length-1,res=-1;
 
