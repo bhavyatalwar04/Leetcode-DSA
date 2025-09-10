@@ -41,8 +41,5 @@ class Solution {
         int first=first(nums,target);
         int last=last(nums,target);
         return new int[]{first,last};
-
-    
-
     }
 }
