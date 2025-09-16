@@ -13,7 +13,9 @@ class Solution {
             if(val>2){
                 return false;
             }
+        
         }
+
         return true;
 
 
