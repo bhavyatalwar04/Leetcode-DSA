@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Linked List
