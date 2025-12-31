@@ -17,9 +17,9 @@ class Solution {
 
         for(int row=0;row<edge_length;row++){
             for(int col=row+1;col<edge_length;col++){
-                int temp=matrix[col][row];
-                matrix[col][row]=matrix[row][col];
-                matrix[row][col]=temp;
+                int temp=matrix[row][col];
+                matrix[row][col]=matrix[col][row];
+                matrix[col][row]=temp;
             }
         }
     }
