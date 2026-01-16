@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0067-add-binary) |
 | [1518-water-bottles](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
