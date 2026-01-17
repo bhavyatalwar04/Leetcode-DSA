@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3034-points-that-intersect-with-cars](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Recursion
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [3324-split-the-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3324-split-the-array) |
 ## Prefix Sum
 |  |
@@ -373,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
