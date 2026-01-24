@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0724-find-pivot-index) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3034-points-that-intersect-with-cars](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
