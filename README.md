@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3324-split-the-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Recursion
 |  |
 | ------- |
@@ -420,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
