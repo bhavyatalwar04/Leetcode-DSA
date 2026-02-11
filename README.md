@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3324-split-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
 | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3034-points-that-intersect-with-cars](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Tree
 |  |
 | ------- |
@@ -459,4 +463,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
