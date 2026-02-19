@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
