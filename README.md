@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0761-special-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
