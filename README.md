@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
 | ------- |
