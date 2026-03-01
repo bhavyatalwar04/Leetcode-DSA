@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search Tree
