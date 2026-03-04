@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1539-kth-missing-positive-number) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
