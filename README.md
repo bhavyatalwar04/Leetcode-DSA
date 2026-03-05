@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0989-add-to-array-form-of-integer](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1922-count-good-numbers) |
