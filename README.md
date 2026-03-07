@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3640-trionic-array-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3640-trionic-array-ii) |
 ## Memoization
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Union Find
