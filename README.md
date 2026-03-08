@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1980-find-unique-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1980-find-unique-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3713-longest-balanced-substring-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
