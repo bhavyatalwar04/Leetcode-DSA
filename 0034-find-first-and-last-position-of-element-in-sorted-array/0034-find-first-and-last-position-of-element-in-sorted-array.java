@@ -1,46 +1,41 @@
 class Solution {
-
-        public static int first(int[] nums,int target){
-
-            int low=0,high=nums.length-1,res=-1;
-
-            while(low<=high){
-                int mid=low+(high-low)/2;
-
-                if(nums[mid]==target){
-                    res=mid;
-                    high=mid-1;
-                } else if(nums[mid]<target){
-                    low=mid+1;
-                } else high=mid-1;
-            }
-            return res;
-        }
-        
-        // searches right
-        public static int last(int[] nums,int target){
-
-            int low=0,high=nums.length-1,res=-1;
-
-            while(low<=high){
-                int mid=low+(high-low)/2;
-
-                if(nums[mid]==target){
-                    res=mid;
-                    low=mid+1;
-                } else if(nums[mid]<target){
-                    low=mid+1;
-                } else high=mid-1;
-            }
-            return res;
-        }
-
     public int[] searchRange(int[] nums, int target) {
-
-        // searches left
-
-        int first=first(nums,target);
-        int last=last(nums,target);
+        int first=firstoc(nums,target); 
+        int last=lastoc(nums,target); 
         return new int[]{first,last};
+    }
+    private int firstoc(int[] nums,int target){
+        int l=0,r=nums.length-1,res=-1;
+
+        while(l<=r){
+            int mid=l+(r-l)/2;
+
+            if(nums[mid]==target){
+                res=mid;
+                r=mid-1;
+            }else if(nums[mid]>target){
+                r=mid-1;
+            }else{
+                l=mid+1;
+            }
+        }
+        return res;
+    }
+    private int lastoc(int[] nums,int target){
+        int l=0,r=nums.length-1,res=-1;
+
+        while(l<=r){
+            int mid=l+(r-l)/2;
+
+            if(nums[mid]==target){
+                res=mid;
+                l=mid+1;
+            }else if(nums[mid]>target){
+                r=mid-1;
+            }else{
+                l=mid+1;
+            }
+        }
+        return res;
     }
 }
