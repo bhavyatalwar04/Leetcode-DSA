@@ -3,10 +3,10 @@ class Solution {
         
         int n=arr.length;
         int MOD=1_000_000_007;
+        int[]left=new int[n];
+        int[]right=new int[n];
 
-        int[] left=new int[n];
-        int[] right=new int[n];
-        Stack<Integer> st=new Stack<>();
+        Stack<Integer>st=new Stack<>();
 
         //PSE
         for(int i=0;i<n;i++){
@@ -16,7 +16,6 @@ class Solution {
             left[i]=st.isEmpty()?-1:st.peek();
             st.push(i);
         }
-
         st.clear();
 
         //NSE
@@ -30,9 +29,9 @@ class Solution {
 
         long total=0;
         for(int i=0;i<n;i++){
-            long leftCount=i-left[i];
-            long rightCount=right[i]-i;
-            total=(total+(leftCount*rightCount*arr[i]))%MOD;
+            long leftCont=i-left[i];
+            long rightCont=right[i]-i;
+            total=(total+(rightCont*leftCont*arr[i]))%MOD;
         }
         return (int) total;
     }
