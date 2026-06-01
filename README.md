@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
