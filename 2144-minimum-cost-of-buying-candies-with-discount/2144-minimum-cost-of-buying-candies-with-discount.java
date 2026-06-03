@@ -5,10 +5,9 @@ class Solution {
         int ans = 0;
 
         for (int i = cost.length - 1; i >= 0; i -= 3) {
-            ans += cost[i];       // largest
+            ans += cost[i];
             if (i > 0)
-                ans += cost[i - 1]; // second largest
-            // i-2 is free
+                ans += cost[i - 1];
         }
 
         return ans;
