@@ -13,18 +13,41 @@
  *     }
  * }
  */
+
+class Pair {
+    long max;
+    long min;
+
+    Pair(long max, long min) {
+        this.max = max;
+        this.min = min;
+    }
+}
+
 class Solution {
-    TreeNode prev = null;
+
+    static boolean flag;
 
     public boolean isValidBST(TreeNode root) {
-        if (root == null)
-            return true;
-        if (!isValidBST(root.left))
-            return false;
+        flag = true;
+        minmax(root);
+        return flag;
+    }
 
-        if (prev != null && root.val <= prev.val)
-            return false;
-        prev = root;
-        return isValidBST(root.right);
+    Pair minmax(TreeNode root) {
+
+        if (root == null)
+            return new Pair(Long.MIN_VALUE, Long.MAX_VALUE);
+
+        Pair lst = minmax(root.left);
+        Pair rst = minmax(root.right);
+
+        if (lst.max >= root.val || rst.min <= root.val)
+            flag = false;
+
+        long max = Math.max(root.val, Math.max(lst.max, rst.max));
+        long min = Math.min(root.val, Math.min(lst.min, rst.min));
+
+        return new Pair(max, min);
     }
 }
