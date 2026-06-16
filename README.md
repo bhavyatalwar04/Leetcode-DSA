@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Merge Sort
 |  |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
