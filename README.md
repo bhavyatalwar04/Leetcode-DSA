@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0989-add-to-array-form-of-integer](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
