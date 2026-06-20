@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -771,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
