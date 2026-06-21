@@ -18,12 +18,12 @@ class Solution {
             int x=point[0];
             int y=point[1];
             int dist=x*x+y*y;
-            pq.add(new Triplet(dist,x,y));
-            if(pq.size()>k) pq.remove();
+            pq.offer(new Triplet(dist,x,y));
+            if(pq.size()>k) pq.poll();
         }
         int[][]ans=new int[k][2];
         for(int i=0;i<k;i++){
-            Triplet top=pq.remove();
+            Triplet top=pq.poll();
             ans[i][0]=top.x;
             ans[i][1]=top.y;
         }
