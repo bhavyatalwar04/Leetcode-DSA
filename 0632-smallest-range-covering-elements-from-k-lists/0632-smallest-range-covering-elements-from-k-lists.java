@@ -43,7 +43,7 @@ class Solution {
                 break;
             int next=nums.get(row).get(col+1);
             max=Math.max(next,max);
-            pq.offer(new Triplet(nums.get(row).get(col+1),row,col+1));
+            pq.offer(new Triplet(next,row,col+1));
         }
         return new int[]{a,b};
     }
