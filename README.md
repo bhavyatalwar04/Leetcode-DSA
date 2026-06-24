@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
@@ -822,4 +826,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
