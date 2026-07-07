@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
