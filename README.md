@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2906-construct-product-matrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2906-construct-product-matrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
 ## String Matching
 |  |
 | ------- |
