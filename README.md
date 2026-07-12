@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0867-transpose-matrix) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
