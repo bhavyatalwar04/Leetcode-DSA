@@ -1,19 +1,20 @@
 class Solution {
     public int longestPalindrome(String s) {
-        HashSet<Character>hs=new HashSet<>();
-        int ans=0;
+        int[] freq = new int[128];
+        
+        for (char c : s.toCharArray()) {
+            freq[c]++;
+        }
 
-        for(char c:s.toCharArray()){
-            if(hs.contains(c)){
-                hs.remove(c);
-                ans+=2;
-            }else{
-                hs.add(c);
+        int ans = 0;
+
+        for (int count : freq) {
+            ans += count / 2 * 2;
+            if (ans % 2 == 0 && count % 2 == 1) {
+                ans++;
             }
         }
-        if(!hs.isEmpty()){
-            ans++;
-        }
+
         return ans;
     }
 }
