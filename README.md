@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0494-target-sum) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
