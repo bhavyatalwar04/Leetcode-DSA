@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1539-kth-missing-positive-number) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
