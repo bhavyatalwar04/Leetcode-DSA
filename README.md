@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1013-fibonacci-number) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1092-shortest-common-supersequence) |
@@ -954,4 +957,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
