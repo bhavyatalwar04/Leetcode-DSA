@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1518-water-bottles) |
 | [1622-fancy-sequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -981,12 +983,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
