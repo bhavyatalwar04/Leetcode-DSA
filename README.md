@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3731-find-missing-elements) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
