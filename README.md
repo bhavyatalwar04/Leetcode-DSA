@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3324-split-the-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3324-split-the-array) |
 | [3713-longest-balanced-substring-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -996,20 +1000,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
