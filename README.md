@@ -772,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
+| [3310-remove-methods-from-project](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
+| [3310-remove-methods-from-project](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
