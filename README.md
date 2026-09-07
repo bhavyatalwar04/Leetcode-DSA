@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1140-stone-game-ii) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
