@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3324-split-the-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3324-split-the-array) |
 | [3379-transformed-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3379-transformed-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3640-trionic-array-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3640-trionic-array-ii) |
 ## Memoization
 |  |
