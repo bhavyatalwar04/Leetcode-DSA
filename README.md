@@ -1066,4 +1066,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
