@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
