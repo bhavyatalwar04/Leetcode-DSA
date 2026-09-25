@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0767-reorganize-string) |
+| [1096-brace-expansion-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0802-find-eventual-safe-states](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -1005,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
