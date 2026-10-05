@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1688-count-of-matches-in-tournament](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1688-count-of-matches-in-tournament](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
