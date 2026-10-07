@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0802-find-eventual-safe-states](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
