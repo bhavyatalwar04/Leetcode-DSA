@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2596-check-knight-tour-configuration](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2596-check-knight-tour-configuration) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhavyatalwar04/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
